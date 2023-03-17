@@ -2,8 +2,8 @@
 ## Цель плана автоматизации
 Дать описание автоматизации тестирования для поиска и перехода к форме записи на курс и заполнения формы.
 ## Перечень автоматизируемых сценариев
-[Тестовые данные](https://docs.google.com/spreadsheets/d/1vE6Rd8Fy4pbri_-Xh_-z-xYZD3H8Vcw46a47hJK95os/edit#gid=0&range=A1:C1)  
-[Тестовые сценарии UI-тестирования](https://docs.google.com/spreadsheets/d/1pE9Ft4Kt7njVcU70UTWFc7-ujSZEmo5Jd9MjfQn5xvA/edit#gid=1895355200&range=A1:F1)
+* [Тестовые данные](https://docs.google.com/spreadsheets/d/1vE6Rd8Fy4pbri_-Xh_-z-xYZD3H8Vcw46a47hJK95os/edit#gid=0&range=A1:C1)  
+* [Тестовые сценарии UI-тестирования](https://docs.google.com/spreadsheets/d/1vE6Rd8Fy4pbri_-Xh_-z-xYZD3H8Vcw46a47hJK95os/edit#gid=1895355200&range=A1:F1)
 ## Перечень используемых инструментов с обоснованием выбора
 1. _Среда разработки IntelliJ IDEA_ - специализированная среда для разработки и автоматизации тестирования на Java;
 2. _Тестовый фреймворк и библиотека JUnit5_ - совместима JVM, содержит необходимые аннотации и assert’ы для автоматизации тестирования;
